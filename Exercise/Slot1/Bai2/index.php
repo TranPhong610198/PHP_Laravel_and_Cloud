@@ -1,3 +1,7 @@
+<!-- In ra List tu 1 den number nhap tu ban phim -->
+<!-- Print a List from 1 to number, that was typed from keyboard -->
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
